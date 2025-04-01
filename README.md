@@ -22,7 +22,7 @@ Bu proje **MIT lisansı** ile lisanslanmıştır. Detaylar için [LICENSE dosyas
 
 ## Yasal Uyarı
 
-Bu dosyalar yalnızca **yasal ve etik güvenlik testleri** için kullanılmalıdır. İzin alınmadan herhangi bir sisteme saldırmak yasaktır. Lütfen etik hackerlık ilkelerine uygun hareket edin.
+Bu dosyalar yalnızca **yasal etik güvenlik testleri ve eğitim amaçlıdır** bunların dışında kullanılması yasaktır.
 
 ## Katkı Sağlama
 
