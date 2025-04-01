@@ -1,0 +1,2 @@
+Brute-Force[[:space:]]Wordlist/Passwords/rockyou.txt filter=lfs diff=lfs merge=lfs -text
+Brute-Force[[:space:]]Wordlist/turkce[[:space:]]wordlist/count.txt filter=lfs diff=lfs merge=lfs -text
